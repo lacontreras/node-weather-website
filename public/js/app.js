@@ -1,4 +1,4 @@
-console.log("client side JS is loaded")
+// console.log("client side JS is loaded")
 
 // fetch('http://localhost:3000/weather?address=!').then(response=>{
 //     response.json().then(data=>{
